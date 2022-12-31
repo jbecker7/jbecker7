@@ -10,5 +10,5 @@ You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbecker7)](https://github.com/jbecker7/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbecker7&hide=swift)](https://github.com/jbecker7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbecker7&hide=html)](https://github.com/jbecker7/github-readme-stats)
 

@@ -2,7 +2,7 @@
 
 I'm a Junior at Claremont McKenna College pursuing a dual major in International Relations and Chinese, along with a Sequence in Computer Science.
 
-I'm currently looking for internships for next summer that will allow me to develop my programming skills and see what an SWE job is really like.
+This summer, I am interning at [Chorus Sleep (YC '21)](https://www.chorussleep.com/).
 
 I'm interested in any and all projects that will allow me to become a better developer! Feel free to reach out if you have a project that I can help with.
 

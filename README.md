@@ -8,7 +8,9 @@ I'm interested in any and all projects that will allow me to become a better dev
 
 You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here](https://www.linkedin.com/in/jonathan-becker-593069238/).
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/qiannianchong7)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbecker7)](https://github.com/jbecker7/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbecker7&hide=css,html,assembly,scilab)](https://github.com/jbecker7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbecker7&hide=css,html,assembly,scilab,astro)](https://github.com/jbecker7/github-readme-stats)
 

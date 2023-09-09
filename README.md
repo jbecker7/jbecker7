@@ -2,7 +2,7 @@
 
 I'm a rising Senior at Claremont McKenna College pursuing a dual major in International Relations and Chinese, along with a Sequence in Computer Science.
 
-This summer, I am interning at [Chorus Sleep (YC '21)](https://www.chorussleep.com/) doing full-stack development with React, Dart, and Go.
+This past summer, I interned at [Chorus Sleep (YC '21)](https://www.chorussleep.com/) doing full-stack development with Flutter/Dart, Go, and TypeScript/React.
 
 I'm interested in any and all projects that will allow me to become a better developer! Feel free to reach out if you have a project that I can help with.
 

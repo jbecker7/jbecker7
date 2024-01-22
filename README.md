@@ -3,12 +3,14 @@
 I graduated in December 2023 from Claremont
             McKenna College with a dual degree in International Relations and
             Chinese, along with a sequence in Computer Science. This spring I
-            will be attending the NYU Bridge Program to sharpen my skills, after
+            am attending the NYU Bridge Program to sharpen my skills, after
             which I plan to go on to a CS Master's Program in the fall to
             solidify my CS education.
 
 
 This past summer, I interned at [Chorus Sleep (YC '21)](https://www.chorussleep.com/) doing full-stack development with Flutter/Dart, Go, and TypeScript/React.
+
+I'm in the process of searching for something to do this summer, whether that be an internship, research, or just working on some really interesting projects.
 
 I'm interested in any and all projects that will allow me to become a better developer! Feel free to reach out if you have a project that I can help with.
 

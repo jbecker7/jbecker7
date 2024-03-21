@@ -1,4 +1,4 @@
-## Hi! My name is Jonathan. 你好！我叫白宗恒。
+## Hi! My name is Jonathan. 你好！我叫白宗恒。ᠰᡳ ᠰᠠᡳᠶᡡᠨ᠈ ᠮᡳᠨᡳ ᡤᡝᠪᡠ ᠣᠴᡳ ᠠᡳᠰᡳᠩᡤᠠ
 
 ### English:
 
@@ -24,6 +24,14 @@ You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here
 
 
 您可以在 [此处](http://jbecker.me) 查看我的网站和 [此处](https://www.linkedin.com/in/jonathan-becker-593069238/) 查看我的LinkedIn。
+
+
+### ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ 
+
+ᠰᡳ ᠰᠠᡳᠶᡡᠨ᠈ ᠮᡳᠨᡳ ᡤᡝᠪᡠ ᠣᠴᡳ ᠠᡳᠰᡳᠩᡤᠠ᠉ 
+
+
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/qiannianchong7)
 

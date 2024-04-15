@@ -28,8 +28,9 @@ You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here
 
 ### ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ 
 
-ᠰᡳ ᠰᠠᡳᠶᡡᠨ᠈ ᠮᡳᠨᡳ ᡤᡝᠪᡠ ᠣᠴᡳ ᠠᡳᠰᡳᠩᡤᠠ᠉ 
+ᠰᡳ ᠰᠠᡳᠶᡡᠨ᠈ ᠮᡳᠨᡳ ᡤᡝᠪᡠ ᠣᠴᡳ ᠠᡳᠰᡳᠩᡤᠠ᠉
 
+<img src="https://github.com/jbecker7/jbecker7/assets/76632760/ead0869c-d8e0-47eb-9b5a-bd993fbab2ef" width=400px>
 
 
 

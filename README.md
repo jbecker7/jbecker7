@@ -30,13 +30,11 @@ You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here
 
 ᠰᡳ ᠰᠠᡳᠶᡡᠨ᠈ ᠮᡳᠨᡳ ᡤᡝᠪᡠ ᠣᠴᡳ ᠠᡳᠰᡳᠩᡤᠠ᠉
 
-<img src="https://github.com/jbecker7/jbecker7/assets/76632760/ead0869c-d8e0-47eb-9b5a-bd993fbab2ef" width=400px>
+<img src="https://github.com/jbecker7/jbecker7/assets/76632760/ead0869c-d8e0-47eb-9b5a-bd993fbab2ef" width=300px>
 
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/qiannianchong7)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbecker7)](https://github.com/jbecker7/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbecker7&hide=css,html,assembly,scilab,astro)](https://github.com/jbecker7/github-readme-stats)
 

@@ -2,25 +2,15 @@
 
 ### English:
 
-I graduated in December 2023 from Claremont
-            McKenna College with a dual degree in International Relations and
-            Chinese, along with a sequence in Computer Science. I plan to go on to a CS Master's Program in the fall to
-            solidify my CS education. 
 
-I'm in the process of searching for something to do this summer, whether that be an internship, research, or just working on some really interesting projects.
-
-This past summer, I interned at [Chorus Sleep (YC '21)](https://www.chorussleep.com/) doing full-stack development with Flutter/Dart, Go, and TypeScript/React.
-
+- I'm an incoming Computer Science Master's Student at Brown University.
+- I recently graduated from Claremont McKenna College with a dual degree in International Relations and Chinese, along with a minor in Computer Science.
 
 You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here](https://www.linkedin.com/in/jonathan-becker-593069238/).
 
 ### 中文：
-
-我于2023年12月从克莱蒙特麦肯纳学院毕业，得到了国际关系和中文双学位，并辅修计算机科学。 我在秋季继续攻读计算机科学硕士课程，以巩固我的计算机科学教育。
-
-我目前正在寻找实习、研究和其他机会来提高我的编码技能。
-
-去年夏天，我在 [Chorus Sleep (YC '21)](https://www.chorussleep.com/) 实习，使用 Flutter/Dart、Go 和 TypeScript/React 进行全栈开发。
+- 我是布朗大学即将攻读计算机科学硕士的学生。
+- 我几个月之前从克莱蒙特麦肯纳学院毕业，获得了国际关系和中文双学位，并辅修了计算机科学。
 
 
 您可以在 [此处](http://jbecker.me) 查看我的网站和 [此处](https://www.linkedin.com/in/jonathan-becker-593069238/) 查看我的LinkedIn。

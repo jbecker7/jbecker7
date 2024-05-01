@@ -24,7 +24,7 @@ You can see my portfolio website [here](http://jbecker.me) and my LinkedIn [here
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/qiannianchong7)
+![LeetCode Stats](https://leetcard.jacoblin.cool/qiannianchong7?theme=nord&font=Cormorant)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbecker7&hide=css,html,assembly,scilab,astro)](https://github.com/jbecker7/github-readme-stats)
 
